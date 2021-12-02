@@ -44,3 +44,8 @@
     
 }
 
+@media screen and (max-width: 372px) {
+    .cabecalho{
+        border-bottom: none;
+    }
+}
